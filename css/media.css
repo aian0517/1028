@@ -1,0 +1,11 @@
+@media (max-width:1080px) {
+    .head-content{
+        margin-top: 150px;
+    }
+    .head-title{
+        font-size: 3em;
+    }
+    .body3-ul li,.body3-ul2 li{
+        width: 100%;
+    }
+}
